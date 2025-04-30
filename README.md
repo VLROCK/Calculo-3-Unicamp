@@ -4,6 +4,8 @@ Este repositório está **em construção**. Em breve, serão adicionados **exer
 
 ---
 
+⚠️ **Observação:** o conteúdo cobrado nas suas provas (P1/P2) pode variar em relação ao que está neste repositório. Sempre confira com sua turma e docente o escopo atualizado da disciplina.
+
 ## 📚 Fontes dos materiais
 
 Os materiais deste repositório são baseados e complementados a partir das seguintes fontes:
