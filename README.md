@@ -6,6 +6,15 @@ Este repositório está **em construção**. Em breve, serão adicionados **exer
 
 ⚠️ **Observação:** o conteúdo cobrado nas suas provas (P1/P2) pode variar em relação ao que está neste repositório. Sempre confira com sua turma e docente o escopo atualizado da disciplina.
 
+--
+
+## 🎥 Vídeo-aulas recomendadas
+
+A Prof.ª Ketty segue o cronograma da disciplina de Cálculo III da UNICAMP. Confira a playlist completa de videoaulas:
+
+- [Prof. Ketty – Cálculo III (UNICAMP) Playlist](https://www.youtube.com/watch?v=lempeC72Tyg&list=PLFBA21F349930F92F)
+
+
 ## 📚 Fontes dos materiais
 
 Os materiais deste repositório são baseados e complementados a partir das seguintes fontes:
